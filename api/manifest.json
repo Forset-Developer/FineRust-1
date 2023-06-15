@@ -4,13 +4,11 @@
       "Official":[
          {
             "Address":"185.189.255.57",
-            "Port":35013,
-            "Tags":""
+            "Port":35013
          },
          {
             "Address":"127.0.0.9",
-            "Port":28003,
-            "Tags":""
+            "Port":28003
          }
       ],
       "Banned":[]
