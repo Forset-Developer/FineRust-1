@@ -6,8 +6,8 @@
             "Port":35013
          },
          {
-            "Address":"127.0.0.9",
-            "Port":28003
+            "Address":"s2.rusty-host.ru",
+            "Port":35003
          }
       ],
       "Banned":[]
